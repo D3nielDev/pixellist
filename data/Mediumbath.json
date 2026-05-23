@@ -1,0 +1,24 @@
+{
+    "id": 57436521,
+    "name": "Mediumbath",
+    "author": "Pixelatted_",
+    "creators": ["Pixelatted_"],
+    "verifier": "Pixelatted_",
+    "verification": "https://youtu.be/pLWdJxOdhyo?si=fL-BlIhl4aYTo75Mc",
+    "percentToQualify": "50",
+    "password": "Copyable",
+    "records": [
+        {
+            "user": "Myakisntmy",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "K3kaSlayer",
+            "link": "",
+            "percent": 63,
+            "hz": 60
+        },
+    ],
+}
