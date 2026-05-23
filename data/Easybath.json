@@ -1,31 +1,30 @@
 {
-    "id": 133584787,
+    "id": 57436521,
     "name": "Easybath",
     "author": "Pixelatted_",
-    "creators": [],
+    "creators": ["Pixelatted_"],
     "verifier": "Pixelatted_",
-    "verification": "https://youtu.be/3qUDkpPtdkc?si=uqKVJXoPhJlMxbb-",
+    "verification": "https://youtu.be/YYBlTYPXuPc",
     "percentToQualify": "100",
-    "password": "Copyable",
+    "password": "46290",
     "records": [
-      {
+        {
             "user": "MyakIsntMy",
             "link": "",
             "percent": 100,
             "hz": 60
         },
- {
+        {
             "user": "K3kaSlayer",
             "link": "",
             "percent": 100,
             "hz": 60
         },
- {
+         {
             "user": "LittleGOAT915",
             "link": "",
             "percent": 100,
             "hz": 240
         },
-   
-    ],
+    ]
 }
