@@ -1,49 +1,24 @@
 {
-    "id": 133584787,
-    "name": "Sakupen Circles EASY",
-    "author": "Pixelatted_",
-    "creators": [],
-    "verifier": "Pixelatted_",
-    "verification": "https://youtu.be/RGKTvJzt2eQ?si=fYTx2ICdxdBbZ-tB",
+    "id": 57436521,
+    "name": "Sample Level 3",
+    "author": "Different Publisher",
+    "creators": ["Solo_Creator"],
+    "verifier": "Solo_Creator",
+    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
     "percentToQualify": "100",
-    "password": "Copyable",
+    "password": "46290",
     "records": [
-      {
-            "user": "K3kaSlayer",
-            "link": "",
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
-            "hz": 60
+            "hz": 360
         },
- {
-            "user": "Myakisntmy",
-            "link": "",
-            "percent": 100,
-            "hz": 60
-        },
- {
-            "user": "LitleGodBoy",
-            "link": "",
-            "percent": 100,
-            "hz": 75
-        },
-{
-            "user": "JyroGGs",
-            "link": "",
+        {
+            "user": "Sample_Victor_2",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
             "hz": 120
-        },
-{
-            "user": "LittleGOAT915",
-            "link": "",
-            "percent": 100,
-            "hz": 240
-        },
-{
-            "user": "TRY2121",
-            "link": "",
-            "percent": 100,
-            "hz": 120
-        },
-   
+        }
     ]
 }
